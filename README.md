@@ -36,8 +36,10 @@ Our engagement with Social Buzz involves a 3-month initial project with the foll
 
 ### Additional Information
 
-- **Relation Figure of All SQL Tables**: [Upload PNG Here]
-- **PPT Presentation**: [To Be Prepared and Presented]
+- **Relation Figure of All SQL Tables**: ![relation figure](https://github.com/user-attachments/assets/65b6af6f-d169-429c-88f2-19e10bd0f0ab)
+
+- **Stakeholder Chart**: ![stake holder chart](https://github.com/user-attachments/assets/271dd332-53b7-445a-8b25-4cd273e5f65a)
+
 
 # ACCENTURE-FORAGE-Data-Analytics---Visualization-Job-Simulation
 The Data Analytics and Visualization Job Simulation by Accenture (Forage) is a virtual work experience program that gives hands-on exposure to the field of data analytics and visualization, specifically in the context of business and technology.
